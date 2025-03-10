@@ -1,2 +1,2 @@
 # janani1
-![Alt text](amazonlogo.jpg)
+![Alt text](amazon logo.jpg)
